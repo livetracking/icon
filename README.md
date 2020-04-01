@@ -1,9 +1,9 @@
 # Live Tracking Icon
 
-![Icon](https://raw.githubusercontent.com/livetracking/livetracking_icon/master/livetracking_icon_128px.png)
-![Icon](https://raw.githubusercontent.com/livetracking/livetracking_icon/master/livetracking_icon_96px.png)
-![Icon](https://raw.githubusercontent.com/livetracking/livetracking_icon/master/livetracking_icon_64px.png)
-![Icon](https://raw.githubusercontent.com/livetracking/livetracking_icon/master/livetracking_icon_32px.png)
+![Icon](https://raw.githubusercontent.com/livetracking/icon/master/livetracking_icon_128px.png)
+![Icon](https://raw.githubusercontent.com/livetracking/icon/master/livetracking_icon_96px.png)
+![Icon](https://raw.githubusercontent.com/livetracking/icon/master/livetracking_icon_64px.png)
+![Icon](https://raw.githubusercontent.com/livetracking/icon/master/livetracking_icon_32px.png)
 
 Feel free to use these icons in your app.
 
@@ -19,4 +19,4 @@ They come from [Google](https://material.io/icons/).
 
 ## License
 
-[Apache License Version 2.0](https://raw.githubusercontent.com/livetracking/livetracking_icon/master/LICENSE)
+[Apache License Version 2.0](https://raw.githubusercontent.com/livetracking/icon/master/LICENSE)
